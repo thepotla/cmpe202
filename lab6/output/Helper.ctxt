@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Helper
+comment1.params=str\ size
+comment1.target=void\ PrintString(java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ GenRegNo()
+comment3.params=
+comment3.target=int\ GenTxnNo()
+comment4.params=
+comment4.target=int\ GenOrderNo()
+comment5.params=
+comment5.target=java.lang.String\ GenOrderTime()
+comment6.params=orderNo\ ordertime
+comment6.target=void\ PrintTop(int,\ java.lang.String)
+comment7.params=bt\ ft
+comment7.target=void\ PrintOrder(double,\ double)
+comment8.params=bt\ ft\ tt
+comment8.target=void\ Orderdetails(double,\ double,\ java.lang.String)
+comment9.params=bt\ ft\ tt
+comment9.target=void\ Orderdetails2(double,\ double,\ java.lang.String)
+numComments=10
