@@ -7,6 +7,7 @@ The payment can be done using two ways, payment using cash or payment using a cr
 In the regular approach, two separate classes for each type of payment created (CashPayment, CardPayment).
 
 Using Strategy pattern, an interface with a payment method is implemented in the above two created classes.
+
 Each class will implement its own method of payment depending on the additional charges that could be incurred based on the payment type. 
 
 Using Java Lambdas, the strategies are implemented with lambdas. Instead of creating a hierarchy of classes to support the strategy pattern we can now create a library of lambda functions or static methods to apply the respective strategy.
